@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-1.png)
 
 # 💫 About Me:
 👯 I’m looking to collaborate on: Cloud-native projects<br>🌱 I’m currently learning: Rust<br>💬 Ask me about: DevOps<br>⚡ Feel Free To Ask About: DevOps
